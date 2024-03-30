@@ -1,6 +1,9 @@
-html,body{
-  margin: 0
+html,
+body {
+  margin: 0;
+  overflow: hidden !important;
 }
+
 a {
   text-decoration: none;
   color: inherit;

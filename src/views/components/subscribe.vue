@@ -7,7 +7,6 @@
     <div class="main">
       <v-window v-model="tabs" style="min-height: 100%;">
         <v-window-item style="min-height: 100%;">
-          <RouterLink to="/login">登录</RouterLink>
         </v-window-item>
         <v-window-item style="min-height: 100%;">
         </v-window-item>

@@ -15,7 +15,7 @@
   </div>
   <div class="bottom">
     <v-btn :variant="tabs === 0 ? 'flat' : 'text'" rounded="0" color="#00897B"
-      style="height: 100%;width: calc(100vw / 4);" @click="tabs = 0">
+      style="height: 100%;width: calc(100% / 4);" @click="tabs = 0">
       <div class="tabs-item-text" :style="{ color: tabs === 0 ? 'inherit' : null }">
         <IconPark v-if="tabs === 0" type="rss" theme="outline" size="24" fill="#fff" strokeLinejoin="bevel" />
         <IconPark v-else type="rss" theme="filled" size="24" fill="#00897B" strokeLinejoin="bevel" />
@@ -23,7 +23,7 @@
       </div>
     </v-btn>
     <v-btn :variant="tabs === 1 ? 'flat' : 'text'" rounded="0" color="#00897B"
-      style="height: 100%;width: calc(100vw / 4);" @click="tabs = 1">
+      style="height: 100%;width: calc(100% / 4);" @click="tabs = 1">
       <div class="tabs-item-text" :style="{ color: tabs === 1 ? 'inherit' : null }">
         <IconPark v-if="tabs === 1" type="video" theme="outline" size="24" fill="#fff" strokeLinejoin="bevel" />
         <IconPark v-else type="video" theme="filled" size="24" fill="#00897B" strokeLinejoin="bevel" />
@@ -31,7 +31,7 @@
       </div>
     </v-btn>
     <v-btn :variant="tabs === 2 ? 'flat' : 'text'" rounded="0" color="#00897B"
-      style="height: 100%;width: calc(100vw / 4);" @click="tabs = 2">
+      style="height: 100%;width: calc(100% / 4);" @click="tabs = 2">
       <div class="tabs-item-text" :style="{ color: tabs === 2 ? 'inherit' : null }">
         <IconPark v-if="tabs === 2" type="pic" theme="outline" size="24" fill="#fff" strokeLinejoin="bevel" />
         <IconPark v-else type="pic" theme="filled" size="24" fill="#00897B" strokeLinejoin="bevel" />
@@ -39,7 +39,7 @@
       </div>
     </v-btn>
     <v-btn :variant="tabs === 3 ? 'flat' : 'text'" rounded="0" color="#00897B"
-      style="height: 100%;width: calc(100vw / 4);" @click="tabs = 3">
+      style="height: 100%;width: calc(100% / 4);" @click="tabs = 3">
       <div class="tabs-item-text" :style="{ color: tabs === 3 ? 'inherit' : null }">
         <IconPark v-if="tabs === 3" type="comments" theme="outline" size="24" fill="#fff" strokeLinejoin="bevel" />
         <IconPark v-else type="comments" theme="filled" size="24" fill="#00897B" strokeLinejoin="bevel" />
