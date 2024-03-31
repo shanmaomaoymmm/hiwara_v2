@@ -7,6 +7,7 @@
     <div class="main">
       <v-window v-model="tabs" style="min-height: 100%;">
         <v-window-item style="min-height: 100%;">
+          <RouterLink to="/player">Video</RouterLink>
         </v-window-item>
         <v-window-item style="min-height: 100%;">
         </v-window-item>
@@ -16,6 +17,7 @@
 </template>
 <script setup>
 import { ref } from "vue"
+import { RouterLink } from "vue-router"
 const tabs = ref(0)
 </script>
 <style lang="scss" scoped>

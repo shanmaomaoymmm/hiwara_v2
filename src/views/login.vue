@@ -12,7 +12,7 @@
         登录
       </v-btn>
     </div>
-    <div style="text-align: right;">
+    <div v-if="false" style="text-align: right;">
       <span @click="openExternalLink('https://www.baidu.com')">注册账号</span>
     </div>
     <div class="bottom">
