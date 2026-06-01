@@ -8,15 +8,15 @@
 
 🕹️ Iwara for NativeScript | 基于NativeScript的跨平台Iwara客户端
 
+This version has been deprecated, please visit the following link to view the latest version.
+### 此版本已废弃，请访问以下连接查看最新版本
+
+[https://github.com/shanmaomaoymmm/hiwara](https://github.com/shanmaomaoymmm/hiwara)
+
 <img src="./logo.svg" width="200"/>
 
 此应用兼容最新版Iwara网站，支持Android、iOS和鸿蒙系统，使用NativeScript、Vue和Typescript编写。  
 This application is compatible with the latest version of the Iwara website, supports Android, iOS, and is written using NativeScript, Vue, and Typescript.  
-
-If you are looking for the v1 version, please refer to the following link.  
-如果你在寻找v1版本，请参考以下链接.
-
-[🗿https://github.com/shanmaomaoymmm/hiwara](https://github.com/shanmaomaoymmm/hiwara)
 
 ## 📱 支持平台
 
