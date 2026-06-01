@@ -9,7 +9,7 @@
 🕹️ Iwara for NativeScript | 基于NativeScript的跨平台Iwara客户端
 
 This version has been deprecated, please visit the following link to view the latest version.
-### 此版本已废弃，请访问以下连接查看最新版本
+### 此版本已废弃，请访问以下链接查看最新版本
 
 [https://github.com/shanmaomaoymmm/hiwara](https://github.com/shanmaomaoymmm/hiwara)
 
